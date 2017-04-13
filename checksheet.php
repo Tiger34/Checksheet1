@@ -16,9 +16,8 @@
 
 <title>Gear List</title>
 
-
-<style>
-	
+<!-- This is CSS -->
+<style>	
 body{
 
 background-color: #808080;
